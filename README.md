@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minuri Rajapakse</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minurirajapakse&label=Profile%20views&color=0e75b6&style=flat" alt="minurirajapakse" /> </p>
+<h1 align="center">Hi 👋, I'm Minuri Rajapakse 👩‍🎓 </h1>
 
 
 - 🔭 I’m currently working on **a chatbot for a crop disease detection and prevention system**
