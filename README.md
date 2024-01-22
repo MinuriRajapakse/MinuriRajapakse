@@ -1,13 +1,14 @@
-<center>
+<div style="text-align:center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minuri+Rajapakse+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
 </a>
-</center>
-
+</div>
 
 - 🔭 I’m currently working on **a chatbot for a crop disease detection and prevention system**
 
 - 🌱 I’m currently learning **data engineering and machine learning**
+
+  
 </br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
