@@ -1,8 +1,9 @@
 <div style="text-align:center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minuri+Rajapakse+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minuri+Rajapakse+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 </div>
+
 
 - 🔭 I’m currently working on **a chatbot for a crop disease detection and prevention system**
 
