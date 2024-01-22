@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Minuri Rajapakse</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minurirajapakse&label=Profile%20views&color=0e75b6&style=flat" alt="minurirajapakse" /> </p>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minuri+Rajapakse+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurirajapakse" alt="minurirajapakse" /></a> </p>
 
 - 🔭 I’m currently working on **a chatbot for a crop disease detection and prevention system**
 
