@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working as a Business Intelligence and Data Science Intern
+- 🔭 I’m currently working as a Business Intelligence and Data Analyst Intern
 
 - 🌱 I’m currently learning about **Large Language models**
 
