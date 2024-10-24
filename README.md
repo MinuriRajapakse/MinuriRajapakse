@@ -5,9 +5,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **a chatbot for a crop disease detection and prevention system**
+- 🔭 I’m currently working as a Business Intelligence and Data Science Intern
 
-- 🌱 I’m currently learning **data engineering and machine learning**
+- 🌱 I’m currently learning about **Large Language models**
 
   
 </br>
