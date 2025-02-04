@@ -4,10 +4,11 @@
 </a>
 </div>
 
-
+</br>
+</br>
 - 🔭 I’m currently working as a Business Intelligence and Data Analyst
 
-  
+</br>  
 </br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
